@@ -1,6 +1,5 @@
 # hello_kurdistan_app
-
-A new Flutter project.
+an app that presents Hello kurdistan in the center of the screen
 
 ## Getting Started
 
